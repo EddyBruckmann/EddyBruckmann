@@ -1,4 +1,4 @@
-# \ud83d\udc4b \u00a1Hola! Soy Eddy Bruckmann
+# 👋 ¡Hola! Soy Eddy Bruckmann
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=EddyBruckmann&label=Profile%20views&color=0e75b6&style=flat" alt="EddyBruckmann" />
@@ -6,16 +6,16 @@
 
 ---
 
-### \ud83d\udccc Sobre m\u00ed
+### 📍 Sobre mí
 
-- \ud83d\udccd Montevideo, Uruguay
-- \ud83c\udf93 Estudiante de Ingenier\u00eda de Sistemas / Inform\u00e1tica
-- \ud83d\udcbb Enfoque: automatizaci\u00f3n, agentes de IA e infraestructura self-hosted
-- \ud83d\udcaa Fitness basado en datos: hipertrofia + fuerza
+- 🇺🇾 Montevideo, Uruguay
+- 🎓 Estudiante de Ingeniería de Sistemas / Informática
+- 🤖 Enfoque: automatización, agentes de IA e infraestructura self-hosted
+- 💪 Fitness basado en datos: hipertrofia + fuerza
 
 ---
 
-### \ud83d\udee0\ufe0f Stack t\u00e9cnico
+### 🛠️ Stack técnico
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -26,15 +26,18 @@
 </p>
 
 - **Infra:** Ubuntu Server, Docker, Raspberry Pi
-- **Automatizaci\u00f3n:** Agentes de IA, chatbots, flujos en n8n
-- **Metodolog\u00edas:** TDD, POO, Clean Code
+- **Automatización:** Agentes de IA, chatbots, flujos en n8n
+- **Metodologías:** TDD, POO, Clean Code
 
 ---
 
-### \ud83d\udcc8 Estad\ud83d\udcc8sticas de GitHub
+### 📈 Estadísticas de GitHub
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddyBruckmann&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddyBruckmann&layout=compact&theme=tokyonight" />
 </p>
 
@@ -44,7 +47,7 @@
 
 ---
 
-### \ud83d\udd17 Conectemos
+### 🔗 Conectemos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/eddybruckmann" target="blank">
@@ -55,5 +58,5 @@
 ---
 
 <p align="center">
-  \u2728 <i>"Automatizar todo lo que se pueda."</i> \u2728
+  ✨ <i>"Automatizar todo lo que se pueda."</i> ✨
 </p>
