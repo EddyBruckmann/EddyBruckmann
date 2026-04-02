@@ -11,7 +11,6 @@
 - 🇺🇾 Montevideo, Uruguay
 - 🎓 Estudiante de Ingeniería de Sistemas / Informática
 - 🤖 Enfoque: automatización, agentes de IA e infraestructura self-hosted
-- 💪 Fitness basado en datos: hipertrofia + fuerza
 
 ---
 
